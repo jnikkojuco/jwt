@@ -1,12 +1,12 @@
 {
-    "keys": [
-        {
-            "kty": "RSA",
-            "n": "weUBeaQ-_6Vda3b4tjdtxwI_gNPgL7aXxkIgOPfqlAfbQ7NM4Wbx-UdR9yI8vbj77QqhG9fOdpP1bZjc28la-1m1REbZRehemGdGMpDE-EyJRVGE_jAqgzCgZhSvZ7SFSgGBIgxpVvPEcQH0mrX4qdbQe_QMcN0lyVQgETBJXOP2t-DFvHimELd787l2KUWroA5Jz1FlUtMX4xcnC2r_o1LkBG9bJSf829UP-BFScOjZ60IXnxWabjC1bQ1c9IpZvpcbGb8iu0zauTqe1TKlm1oUAHJfEW9IMdI0pIUOJtcO-2kDEwCfLNfxpe6tdJyZlB8HyfzL6opWiGgHGMGtKw",
-            "e": "AQAB",
-            "alg": "RS384",
-            "use": "sig",
-            "kid": "unique-key-id"
-        }
-    ]
+  "keys": [
+    {
+      "kty": "RSA",
+      "kid": "https://ce-pruitt-test-kv.vault.azure.net/keys/epic-test-key/7ea368a67b6540d89c30419b3417ae52",
+      "use": "sig",
+      "alg": "RS256",
+      "n": "qt0t3RwAmasED-tuex1q2UQqpvHH4X7-s2-44m3A7rC4WHCX_Dev0-U9yCYE_oZPIsgK8wS1iwTzwNINJNQuOWa8a5jMaP_HHYNNQCBFhFslIxoOPPjSuy2dv-L3ngMXTVbevHAzbInGiHGK6b2u0vmJbtYkWXmgcXxROdbDS_0Kt2iQtZjRfFGuiTyLvjfhxOTTxxRZZch5PSlylghYhdDKR-RLHQAb2n82SET3dsq6BEOrHbOEcOAs5aCn3P-0I9z9WkQWAza1HgK8pM-HdkcG6vAkCLsUMxn5wHKCTdmbN0AOtXOhT3zun3J1Byn8gwCXo-B-MDuF_WnEu-h2PQ",
+      "e": "AQAB"
+    }
+  ]
 }
